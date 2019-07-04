@@ -6,6 +6,12 @@ The projects main intents were for an introduction into Java GUIs. Basic JPanel 
 
 <h5>Future ideas, however, remain:</h5>
 
-- [ ] Add splash screen with prompt asking for a window size and giving instructions. - Let user pick from a list. Do common HD sizes from 480p to 1440p.
-- [ ] Add option to right click a node to delete it. - Meaning you need to track what node to add next and since every node is an int that shouldn't be too hard. - Just set it on deletion/adding.
-- [ ] Add option to determine if there is a path from one node to another? - Would mean adding a label, "Path from" and a JTextField - Another label "to", another JTextField - Another label "exists?" and a button "Find" - Finally, a label <TRUE/FALSE> to the bottom strip of the window.
+- [ ] Add splash screen with prompt asking for a window size and giving instructions.
+  - Let user pick from a list. Do common HD sizes from 480p to 1440p.
+- [ ] Add option to right click a node to delete it.
+  - Meaning you need to track what node to add next and since every node is an int that shouldn't be too hard.
+  - Just set it on deletion/adding.
+- [ ] Add option to determine if there is a path from one node to another?
+  - Would mean adding a label, "Path from" and a JTextField
+  - Another label "to", another JTextField - Another label "exists?" and a button "Find"
+  - Finally, a label <TRUE/FALSE> to the bottom strip of the window.
